@@ -1,4 +1,4 @@
- int maxRains=8;
+ int maxRains=16;
 
 class Rain
 {
